@@ -1,0 +1,15 @@
+D:\BL.BussinessLogic\bin\Debug\net6.0\BL.BussinessLogic.deps.json
+D:\BL.BussinessLogic\bin\Debug\net6.0\BL.BussinessLogic.dll
+D:\BL.BussinessLogic\bin\Debug\net6.0\ref\BL.BussinessLogic.dll
+D:\BL.BussinessLogic\bin\Debug\net6.0\BL.BussinessLogic.pdb
+D:\BL.BussinessLogic\bin\Debug\net6.0\BL.DataAccess.dll
+D:\BL.BussinessLogic\bin\Debug\net6.0\BL.DataAccess.pdb
+D:\BL.BussinessLogic\obj\Debug\net6.0\BL.BussinessLogic.csproj.AssemblyReference.cache
+D:\BL.BussinessLogic\obj\Debug\net6.0\BL.BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL.BussinessLogic\obj\Debug\net6.0\BL.BussinessLogic.AssemblyInfoInputs.cache
+D:\BL.BussinessLogic\obj\Debug\net6.0\BL.BussinessLogic.AssemblyInfo.cs
+D:\BL.BussinessLogic\obj\Debug\net6.0\BL.BussinessLogic.csproj.CoreCompileInputs.cache
+D:\BL.BussinessLogic\obj\Debug\net6.0\BL.BussinessLogic.csproj.CopyComplete
+D:\BL.BussinessLogic\obj\Debug\net6.0\BL.BussinessLogic.dll
+D:\BL.BussinessLogic\obj\Debug\net6.0\ref\BL.BussinessLogic.dll
+D:\BL.BussinessLogic\obj\Debug\net6.0\BL.BussinessLogic.pdb
